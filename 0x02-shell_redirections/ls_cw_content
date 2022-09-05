@@ -1,0 +1,22 @@
+total 19
+drwxr-xr-x 1 sarah 197626  0 Sep  5 23:23 .
+drwxr-xr-x 1 sarah 197626  0 Sep  5 22:27 ..
+-rwxr-xr-x 1 sarah 197626 32 Sep  5 19:26 0-hello_world
+-rw-r--r-- 1 sarah 197626  0 Sep  5 23:13 10-no_more_js
+-rw-r--r-- 1 sarah 197626  0 Sep  5 23:13 11-directories
+-rw-r--r-- 1 sarah 197626  0 Sep  5 23:13 12-newest_files
+-rw-r--r-- 1 sarah 197626  0 Sep  5 23:13 13-unique
+-rw-r--r-- 1 sarah 197626  0 Sep  5 23:14 14-findthatword
+-rw-r--r-- 1 sarah 197626  0 Sep  5 23:14 15-countthatword
+-rwxr-xr-x 1 sarah 197626 28 Sep  5 19:34 1-confused_smiley
+-rwxr-xr-x 1 sarah 197626 28 Sep  5 20:00 2-hellofile
+-rwxr-xr-x 1 sarah 197626 39 Sep  5 20:00 3-twofiles
+-rwxr-xr-x 1 sarah 197626 35 Sep  5 19:00 4-lastlines
+-rwxr-xr-x 1 sarah 197626 29 Sep  5 20:06 5-firstlines
+-rwxr-xr-x 1 sarah 197626 36 Sep  5 21:50 6-third_line
+-rwxr-xr-x 1 sarah 197626 80 Sep  5 22:55 7-file
+-rwxr-xr-x 1 sarah 197626 34 Sep  5 23:23 8-cwd_state
+-rwxr-xr-x 1 sarah 197626 35 Sep  5 23:20 9-duplicate_last_line
+-rw-r--r-- 1 sarah 197626  0 Sep  5 23:20 iacta
+-rw-r--r-- 1 sarah 197626  0 Sep  5 23:23 ls_cw_content
+-rw-r--r-- 1 sarah 197626 37 Sep  5 18:32 README.md
